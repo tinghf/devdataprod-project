@@ -4,12 +4,15 @@
 
 Developing Data Products - Peer assessed project
 
-The Shiny application can be access here: <TBA>
-
-
+The Shiny application can be access here: https://tinghf.shinyapps.io/shiny_app_rpart_plot/
 
 ## Reproducible Pitch Presentation
 
-presentation pitch for the project... 
+presentation for the project can be assessed here: 
 
+More info: 
+
+prp reference
+Plot rpart models. Extends plot.rpart and text.rpart in the rpart package.
+http://cran.r-project.org/web/packages/rpart.plot/index.html	
 
