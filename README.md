@@ -8,7 +8,7 @@ The Shiny application can be access here: https://tinghf.shinyapps.io/shiny_app_
 
 ## Reproducible Pitch Presentation
 
-presentation for the project can be assessed here: 
+presentation for the project can be assessed here: http://rawgit.com/tinghf/devdataprod-project/master/rpart/index.html
 
 More info: 
 
