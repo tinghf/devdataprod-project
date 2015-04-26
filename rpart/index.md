@@ -12,7 +12,8 @@ knit        : slidify::knit2slides
 ---
 
 ## Aim
-The aim of Rpart application is to demostrate the use of the prp funciton in the rpart.port packages. 
+The aim of Rpart application is to demostrate the use of the prp funciton in the rpart.port packages and illustrate the visual effect of different input parameter values to the prp function. 
+
 The rpart.plot R package plots rpart trees (also known as CART trees). It extends the functions in the rpart package.
 
 Further information about rpart.port package:
@@ -38,10 +39,13 @@ You can open the application at:
 
 https://tinghf.shinyapps.io/shiny_app_rpart_plot/
 
+Source of the project are available at: 
+
+https://github.com/tinghf/devdataprod-project
+
 ---
 
 ## User guide
 
-RPart application has two sections. Left section lets you interject values and interact with controls, while the right side show you the result rpart plot. 
+RPart application has two sections. Left section lets you interject values and interact with controls, while the right side show you the result rpart plot. The rest is fairly self-explanatory. 
 
----

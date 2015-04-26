@@ -4,7 +4,7 @@ output: html_document
 ---
 
 ## Aim
-The aim of Rpart application is to demostrate the use of the prp funciton in the rpart.port packages. 
+The aim of Rpart application is to demostrate the use of the prp funciton in the rpart.port packages and illustrate the effort of different parameter values. 
 The rpart.plot R package plots rpart trees (also known as CART trees). It extends the functions in the rpart package.
 
 Further information about rpart.port package:
@@ -29,5 +29,4 @@ https://tinghf.shinyapps.io/shiny_app_rpart_plot/
 
 ## User guide
 
-RPart application has two sections. Left section lets you interject values and interact with controls, while the right side show you the result rpart plot. 
-
+RPart application has two sections. Left section lets you interject values and interact with controls, while the right side show you the result of the rpart plot. 
